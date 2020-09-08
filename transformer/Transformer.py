@@ -1,9 +1,8 @@
-import goslate
 import numpy as np
 
 class Transformer():
     def __init__(self):
-    	self.gs = goslate.Goslate()
+    	print(" Starting transformer...")
 
 
 
